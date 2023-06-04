@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+button {
+    background-color: #0c2c96;
+    
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    font-style: italic;
+    cursor: pointer;
+    
+}
+button:hover {
+    background-color: #000000;
+}
+
+.error-message{
+    background-color: #b30a0a;
+    padding: 8;
+    color: #fff;
+}
